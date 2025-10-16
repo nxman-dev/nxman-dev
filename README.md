@@ -1,5 +1,9 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there 👋, I'm Nouman</h1>
+<p align="center">
+  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="300" alt="Python Logo">
+</p>
+
+<h1 align="center"> I'm Nouman ,💻 Code is my canvas; Python is my paintbrush</h1>
 <h3 align="center">A beginner Python developer passionate about AI, design, and tech 🚀</h3>
 
 ---
@@ -7,14 +11,13 @@
 ### 💬 About Me
 - 🔭 I’m currently working on improving my **Python** and **C++** skills through small projects and real-world practice.  
 - 🌱 I’m currently learning **AI, Machine Learning**, and creative design in tech.  
-- 👯 I’m looking to collaborate on beginner-friendly **Python** or **AI projects**.  
-- 🤔 I’m looking for help with building my first **AI-based project**.  
+- 👯 I’m looking to collaborate on beginner-friendly **Python** or **AI projects**.   
 - 💬 Ask me about **Python basics**, **C++ fundamentals**, or **getting started with GitHub**.  
 - 📫 How to reach me:  
   - [LinkedIn](https://www.linkedin.com/in/nouman-naeem-a50b6a388)  
-  - [Instagram](https://www.instagram.com/nouman.nova)  
-  - [GitHub](https://github.com/nxman-dev)  
-- ⚡ Fun fact: I blend creativity and logic — I love both designing visuals 🎨 and writing clean code 💻.
+  - [Instagram](https://www.instagram.com/nouman_nova)  
+  - [TikTok](https://www.tiktok.com/@nouman.nova)  
+  - [Facebook](https://www.facebook.com/people/Nouman-Naeem-Akhund-Khail/pfbid02qUH9sfv8Qbf2KRB9By1dmdKedfeBM9JHxTbGRHBg5ZVgwqfPQt9rp8kEKLJbDLc1l/)  
 
 ---
 
@@ -26,20 +29,24 @@
 ---
 
 ### 🧩 Project Highlights
-Here are a few of my first Python programs:
-- 🐍 **Basic Python Programs** — HelloWorld, Average, Square, Comparison, etc.  
-- ✨ **String Handling Programs** — Greeting, ReplaceSpace, SpaceDetect, and more.  
-- 💡 Each project is simple but built to strengthen my foundation in programming.
+Here are some of my beginner Python projects:
+
+| Project | Description |
+|----------|-------------|
+| 🐍 **Basic Python Programs** | HelloWorld, Sum, Square, Average, Comparison, and Type programs — learning fundamentals. |
+| ✨ **String Handling Programs** | Greeting, ReplaceSpace, SpaceDetect, and others — focused on string manipulation. |
+| 🎨 **Creative Projects** | Combining design and code for small experiments in graphics and tech. |
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Streaks
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nxman-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nxman-dev&theme=tokyonight" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxman-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nxman-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nxman-dev&theme=tokyonight" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxman-dev&layout=compact&theme=tokyonight" alt="Top Languages" width="50%" />
 </p>
 
 ---
@@ -63,7 +70,10 @@ Here are a few of my first Python programs:
   </a>
 </p>
 
-
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B8BBE,100:306998&height=100&section=footer"/>
+</p>
 
 ⭐️ *Thanks for visiting my profile! Follow my journey as I learn, build, and create with Python & AI.*
