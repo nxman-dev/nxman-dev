@@ -1,6 +1,6 @@
 
-<h1 align="center"> I'm Nouman ,💻 Code is my canvas; Python is my paintbrush</h1>
-<h3 align="center">A beginner Python developer passionate about AI, design, and tech 🚀</h3>
+<h1 align="center"> I'm Nouman 
+<h3 align="center"> </h1>A CS student, Board Topper, Graphic Designer and beginner Python developer passionate about AI, design, and tech 🚀</h3>
 
 ---
 
@@ -19,7 +19,7 @@
 
 ### ⚙️ Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,github,vscode,canva" />
 </p>
 
 ---
