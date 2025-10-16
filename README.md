@@ -1,7 +1,3 @@
-<!-- Profile Header -->
-<p align="center">
-  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="300" alt="Python Logo">
-</p>
 
 <h1 align="center"> I'm Nouman ,💻 Code is my canvas; Python is my paintbrush</h1>
 <h3 align="center">A beginner Python developer passionate about AI, design, and tech 🚀</h3>
