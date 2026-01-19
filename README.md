@@ -11,8 +11,7 @@
 - 💬 Ask me about **Python basics**, **C++ fundamentals**, or **getting started with GitHub**.  
 - 📫 How to reach me:  
   - [LinkedIn](https://www.linkedin.com/in/nouman-naeem-a50b6a388)  
-  - [Instagram](https://www.instagram.com/nouman_nova)  
-  - [TikTok](https://www.tiktok.com/@nouman.nova)  
+  - [Instagram](https://www.instagram.com/nouman_nova)   
   - [Facebook](https://www.facebook.com/people/Nouman-Naeem-Akhund-Khail/pfbid02qUH9sfv8Qbf2KRB9By1dmdKedfeBM9JHxTbGRHBg5ZVgwqfPQt9rp8kEKLJbDLc1l/)  
 
 ---
