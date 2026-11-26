@@ -1,40 +1,81 @@
 # Nouman Naeem Akhund Kheel
-**Artificial Intelligence Student • Board Topper • Intelligent Systems Developer**
 
-[LinkedIn](https://www.linkedin.com/in/nouman-naeem-a50b6a388) | [GitHub](https://github.com/nxman-dev) | [Portfolio](https://github.com/nxman-dev)
+**Artificial Intelligence Undergraduate | Machine Learning Enthusiast | AI Project Developer**
 
----
-
-### 💬 Profile
-* **Focus:** Building intelligent backend architectures and optimized data-retrieval pipelines.
-* **AI & Machine Learning:** Specialized in engineering **Retrieval-Augmented Generation (RAG)** pipelines utilizing Large Language Models (LLMs) and vector processing ecosystems.
-* **Core Foundations:** Strong grasp of Object-Oriented Programming (OOP) architectures in **Java**, **C++**, and system-level logic.
-* **Security & Systems:** Certified Ethical Hacker (CEH) with a focus on writing secure code and managing automated Python environment pipelines.
+[LinkedIn](https://www.linkedin.com/in/nouman-naeem-ak) • [GitHub](https://github.com/nxman-dev)
 
 ---
 
-### 🛠️ Tech Stack & Tooling
-* **Languages:** Python, C++, Java, HTML5, CSS3, Bash
-* **Tools & Ecosystem:** Git, GitHub, VS Code, Vector Databases, LLM Orchestration Frameworks
+###  About Me
+
+I'm a third-semester Artificial Intelligence undergraduate with a background in Computer Science and a growing interest in building practical AI systems.
+
+-  **Education:** BS Artificial Intelligence
+-  **Achievement:** Board Topper in Computer Science — Session 2025
+-  **Interests:** Machine Learning, LLM Security, Natural Language Processing, and AI Research
+-  **Currently Exploring:** LLMs, Retrieval-Augmented Generation (RAG), and intelligent information-retrieval systems.
+-  **Currently Learning:** Strengthening my foundations in Python, NumPy, Machine Learning, and research methodology.
+
+I enjoy turning theoretical concepts into practical projects and collaborating with others to explore emerging AI technologies.
 
 ---
 
-### 🧩 Featured Architectures
-> *"Don't judge a developer by their class schedule; judge them by their codebase."*
+###  Technical Skills
 
-| Systems & Frameworks | Ecosystem | Key Architecture / Technical Implementations |
-| :--- | :--- | :--- |
-| **AI Retrieval-Augmented Generation (RAG)** | Python, LLMs, Vector DBs | Built an intelligent data-retrieval pipeline capable of processing local unstructured context files (PDFs/Videos) to answer complex custom domain queries. |
-| **Toll Plaza Management Infrastructure** | C / C++ | Structured custom terminal logic dealing with sequential data tracking, operational conditions, and optimized system states. |
-| **Semantic Web Deployments** | HTML5, CSS3 | Created clean, modern, fully responsive web page frameworks designed using modular layouts and fluid UI principles. |
+| Category | Technologies |
+|---|---|
+| Programming | Python, C, Java |
+| AI & Machine Learning | Machine Learning, NLP, Large Language Models |
+| AI Applications | Retrieval-Augmented Generation (RAG) |
+| Data & Retrieval | NumPy, FAISS, Vector Databases |
+| Frameworks & Tools | FastAPI, LangGraph, Hugging Face, Git, GitHub, VS Code |
+| Web Technologies | HTML, CSS |
 
 ---
 
-### 📊 Engineering Metrics
+###  Featured Projects
+
+**1. RAG-Based PDF & YouTube Video Assistant**
+
+An AI-powered application that allows users to interact with PDF documents and YouTube video content using natural language.
+
+- Explores Retrieval-Augmented Generation (RAG).
+- Combines document/video information retrieval with LLM-based responses.
+- Technologies: Python, FastAPI, LangGraph, FAISS, Hugging Face, Groq, and React.
+
+**2. Toll Plaza Management System**
+
+A programming project developed to manage toll plaza operations using structured programming concepts in C.
+
+---
+
+###  Learning & Certifications
+
+- Artificial Intelligence & Machine Learning Training — 144 Hours, Employable Digital Skills Initiative.
+- Python for Data Science, AI & Development — IBM / Coursera.
+
+---
+
+###  Research Interests
+
+I'm interested in exploring:
+
+- Machine Learning and its practical applications.
+- Security, reliability, and vulnerabilities in Large Language Models.
+- Retrieval-Augmented Generation and information retrieval.
+- Natural Language Processing.
+
+I'm particularly interested in contributing to collaborative research projects and developing the skills needed to publish my first research paper.
+
+---
+
+###  GitHub Statistics
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nxman-dev&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxman-dev&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="45%" />
 </p>
 
 ---
-*Thanks for stopping by. I'm currently documenting, building, and scaling intelligent systems in the public square.*
+
+**Always learning. Always building. Exploring the possibilities of Artificial Intelligence.**
